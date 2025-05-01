@@ -1,0 +1,15 @@
+Historique des commandes de Mathieu:
+
+Commande ID : 5fc991a2-fc9f-4d5d-af56-0f336bb786a7
+Client : Mathieu
+Produits :
+  - Call of Duty (60.0 €)
+  - Captain América (25.4 €)
+  - LEGO Star Wars (120.0 €)
+  - Minecraft (20.0 €)
+  - Catan (35.0 €)
+  - Spotify Premium (9.99 €)
+Total des articles :270.39 €
+Reste à payer : 0.0 €
+
+------------------------
