@@ -8,11 +8,13 @@ import com.azardhel.boutique.Model.ProduitVirtuel;
 import com.azardhel.boutique.Services.CommandeService;
 import com.azardhel.boutique.Services.PaiementService;
 import com.azardhel.boutique.Services.SauvegardeService;
+import com.azardhel.boutique.View.ConsoleApp;
 
 public class App 
 {
     public static void main( String[] args )
     {
+        /* 
         Client client = new Client("Mathieu", "Mathieu@gmail.Com");
 
         ProduitPhysique funkyPopMarvel = new ProduitPhysique("Captain América", 25.4, 5);
@@ -54,5 +56,9 @@ public class App
         SauvegardeService saveService = new SauvegardeService();
         saveService.sauvegarderHistorique(client);
         System.out.println(commande);
+        */
+
+        ConsoleApp menu = new ConsoleApp();
+        menu.demarrer();
     }
 }
