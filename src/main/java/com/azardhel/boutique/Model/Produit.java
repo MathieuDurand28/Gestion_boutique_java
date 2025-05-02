@@ -3,9 +3,9 @@ package com.azardhel.boutique.Model;
 import java.util.UUID;
 
 public abstract class Produit {
-    private UUID id; 
-    private String nom; 
-    private double prix;
+    private final UUID id;
+    private final String nom;
+    private final double prix;
     private int stock; 
 
     public Produit(String nom, double prix, int stock) {
